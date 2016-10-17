@@ -1,7 +1,7 @@
 # hello-world
-a short description
+a short description v.2
 
-#include <stdio.h>
+include <stdio.h>
 int main(){
-return -1;
+return -3;
 }
